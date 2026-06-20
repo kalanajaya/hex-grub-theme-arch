@@ -2,14 +2,14 @@
 Hex theme for GRUB
 _____________________________
 Preview
-![preview](https://github.com/kalanaj2005/hex-grub-theme-arch/blob/main/preview/preview_16:9_arch.png?raw=true)
+![preview](https://github.com/kalanajaya/hex-grub-theme-arch/blob/main/preview/preview_16:9_arch.png?raw=true)
 
 # Installation 
 _____________________________
 
 1.Clone the repository
 ```shell
-git clone https://github.com/kalanaj2005/hex-grub-theme-arch
+git clone https://github.com/kalanajaya/hex-grub-theme-arch
 ```
 2.cd to theme directory
 ```shell
